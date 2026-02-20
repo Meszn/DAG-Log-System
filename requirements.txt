@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+asyncpg
+pydantic-settings
+scikit-learn
+pandas
+python-dotenv
+alembic
+psycopg2-binary
